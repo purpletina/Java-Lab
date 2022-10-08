@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hw;
+package Java08;
 
 class CCircle {
 	double pi = 3.14;
