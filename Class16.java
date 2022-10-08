@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hw1;
+package Java08;
 
 class CSphere {
 	private int x;
