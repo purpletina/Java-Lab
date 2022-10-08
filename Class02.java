@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hw;
+package Java08;
 class Cbbb
 {
 	double x;
