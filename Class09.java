@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hw1;
+package Java08;
 
 class CCalculator {
 	int a; int b; int c;
